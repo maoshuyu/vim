@@ -1,5 +1,5 @@
 "开启鼠标支持
-set mouse=a		
+set mouse=a
 
 "关闭自动折行
 set nowrap
@@ -7,7 +7,7 @@ set nowrap
 "设置折叠方式
 set foldmethod=manual
 
-"编码设置 
+"编码设置
 set encoding=utf-8
 set fileencodings=utf-8,ucs-bom,gb2312,chinese,prc,taiwan,latin-1
 set termencoding=utf-8
@@ -45,10 +45,10 @@ set so=1
 
 "关闭自动折行
 "set wrap
-set nowrap 
+set nowrap
 
 "忽略大小写匹配
-set ignorecase 
+set ignorecase
 
 "开启输入时的搜索
 set incsearch

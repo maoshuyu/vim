@@ -112,6 +112,7 @@ Helptags
 
 "syntastic
 let g:syntastic_javascript_checkers=["eslint"]
+let g:syntastic_html_checkers=['']
 
 set statusline+=%#warningmsg#
 set statusline+=%{SyntasticStatuslineFlag()}
